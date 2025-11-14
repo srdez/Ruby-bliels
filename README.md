@@ -1,4 +1,4 @@
-# Ruby-bliels
+# Ruby bliels
 Collection of projects while learning Ruby
 
 ### List of projects
